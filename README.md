@@ -8,14 +8,14 @@ The dataset contains housing data from Bangalore, including features such as loc
 
 In this project, a House Price Prediction model is built using the Bangalore housing dataset. The data is first cleaned by removing irrelevant columns, handling missing values, and converting categorical variables into numerical form using one-hot encoding. Feature engineering is performed, including transforming total square footage and analyzing price per square foot. Outliers are identified and removed to improve model accuracy. The processed data is then split into training and testing sets, and a regression model (Linear Regression) is trained to predict house prices. The model’s performance is evaluated to ensure reliable and realistic price predictions.
 
-&#9679; Dataset Handling Summary:
+* Dataset Handling Summary:
 
-Removed unnecessary features (availability, balcony, area type, society)
+&#9679; Removed unnecessary features (availability, balcony, area type, society)
 
-Handled missing values
+&#9679; Handled missing values
 
-Converted categorical features like location into numerical format
+&#9679; Converted categorical features like location into numerical format
 
-Performed feature engineering and outlier removal
+&#9679; Performed feature engineering and outlier removal
 
-Trained and tested a regression model for price prediction
+&#9679; Trained and tested a regression model for price prediction
