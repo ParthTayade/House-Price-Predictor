@@ -3,3 +3,19 @@ House Price Predictor is a Machine Learning project that predicts house prices b
 
 ### Dataset Source - Bengaluru House price data(KAGGLE)
 The dataset contains housing data from Bangalore, including features such as location, total square footage, number of bedrooms (BHK), number of bathrooms, and price. It is used to analyze real estate trends and train a machine learning model to predict house prices based on property characteristics. The dataset requires preprocessing to handle missing values, outliers, and categorical variables.
+
+### Project Description :
+
+In this project, a House Price Prediction model is built using the Bangalore housing dataset. The data is first cleaned by removing irrelevant columns, handling missing values, and converting categorical variables into numerical form using one-hot encoding. Feature engineering is performed, including transforming total square footage and analyzing price per square foot. Outliers are identified and removed to improve model accuracy. The processed data is then split into training and testing sets, and a regression model (Linear Regression) is trained to predict house prices. The model’s performance is evaluated to ensure reliable and realistic price predictions.
+
+&#9679; Dataset Handling Summary:
+
+Removed unnecessary features (availability, balcony, area type, society)
+
+Handled missing values
+
+Converted categorical features like location into numerical format
+
+Performed feature engineering and outlier removal
+
+Trained and tested a regression model for price prediction
