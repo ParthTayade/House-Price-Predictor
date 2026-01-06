@@ -18,4 +18,8 @@ In this project, a House Price Prediction model is built using the Bangalore hou
 
 &#9679; Performed feature engineering and outlier removal
 
-&#9679; Trained and tested a regression model for price prediction
+&#9679; Trained and tested a regression model for price prediction.
+
+# Results
+
+&#9733; R2_Score : 0.84
